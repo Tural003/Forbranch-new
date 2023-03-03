@@ -1,4 +1,8 @@
-for (let index = 0; index < array.length; index++) {
-    const element = array[index];
+for (let index = 0; index < 100; index++) {
+    console.log(index);;
     
+}
+for (let index = 0; index < 200; index++) {
+    console.log(index);
+
 }
